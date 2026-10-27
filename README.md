@@ -149,7 +149,7 @@ The repository contains the following materials.
 
 Contains data preprocessing, emotion scoring integration, regression analysis, sensitivity checks, and dictionary comparisons.
 
-**[Final Research Report](report/)**
+**[Final Research Report](report/Final%20Research%20Report_Text%20Analytics.pdf)**
 
 Presents the methodology, statistical results, interpretation, and limitations.
 
