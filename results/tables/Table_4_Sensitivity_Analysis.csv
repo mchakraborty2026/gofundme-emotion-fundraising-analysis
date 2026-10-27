@@ -1,0 +1,5 @@
+﻿Specification,Outcome,N,R2,Significant finding
+Model A: Primary,Percent raised,"1,181",0.0293,Duration (negative; p=0.011)
+Model A: Top 1% excluded,Percent raised,"1,169",0.0163,Duration (negative; p=0.012)
+Model B: Primary,Donor count,"1,192",0.9973,GFM Hearts (positive; p<0.001)
+Model B: Without hearts,Donor count,"1,192",0.5616,FB Shares (positive; p<0.001)

@@ -1,0 +1,9 @@
+Dictionary,Outcome,Specification,N,R_Squared,Adjusted_R_Squared,Significant_Emotions,Other_Significant_Predictors
+GALC,Percent Raised,Primary,1181,0.029276566797788783,0.02348367333451895,None,Length_Days
+EmoLex,Percent Raised,Primary,1181,0.02471567279199538,0.01889556171743778,None,Length_Days
+GALC,Number of Donors,Primary,1192,0.9972918611331062,0.9972758501769675,None,GFM_hearts
+EmoLex,Number of Donors,Primary,1192,0.99729983725447,0.9972838734544542,None,GFM_hearts
+GALC,Percent Raised,Exclude Top 1%,1169,0.016307661774881965,0.010376700217968993,None,Length_Days
+EmoLex,Percent Raised,Exclude Top 1%,1169,0.009381983794017335,0.003409265350053481,None,Length_Days
+GALC,Number of Donors,Without Hearts,1192,0.5615681040691767,0.5593481957353497,None,FB_Shares
+EmoLex,Number of Donors,Without Hearts,1192,0.5641501523956963,0.5619433177242821,None,FB_Shares

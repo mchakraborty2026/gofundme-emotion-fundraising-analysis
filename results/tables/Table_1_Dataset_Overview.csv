@@ -1,0 +1,10 @@
+﻿Characteristic,Value
+Original fundraising campaigns,"1,242"
+Campaigns retained after cleaning,"1,231"
+Campaigns excluded,11
+Average description length,62.75 words
+Median funding goal achieved,87.47%
+Campaigns reaching their goal,455 (37.0%)
+Campaigns with goals of $2 or less,12
+Model A observations,"1,181"
+Model B observations,"1,192"
